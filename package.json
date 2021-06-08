@@ -22,7 +22,7 @@
   "author": "Remy Sharp <remy@leftlogic.com>",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^16.3.2",
+    "@octokit/rest": "^18.5.3",
     "@remy/envy": "^3.1.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
